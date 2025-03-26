@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="123">
-      <change afterPath="$PROJECT_DIR$/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2025-1-pyhtonclass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2025-1-pyhtonclass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02list.py" beforeDir="false" afterPath="$PROJECT_DIR$/02list.py" afterDir="false" />
+    <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="다차원 리스트와 조건문">
+      <change afterPath="$PROJECT_DIR$/04loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p01py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,8 @@
     "Python.01type.executor": "Run",
     "Python.02list.executor": "Run",
     "Python.03.executor": "Run",
+    "Python.04loop.executor": "Run",
+    "Python.p01py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -114,13 +115,30 @@
       <option name="project" value="LOCAL" />
       <updated>1742269011201</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="다차원 리스트와 조건문">
+      <option name="closed" value="true" />
+      <created>1742368013901</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742368013901</updated>
+    </task>
+    <task id="LOCAL-00007" summary="다차원 리스트와 조건문">
+      <option name="closed" value="true" />
+      <created>1742368095029</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742368095029</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme.md를 수정하여 커밋 푸시 확인" />
     <MESSAGE value="파이썬의 데이터 변수타입, 연산자" />
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="다차원 리스트와 조건문" />
+    <option name="LAST_COMMIT_MESSAGE" value="다차원 리스트와 조건문" />
   </component>
 </project>
