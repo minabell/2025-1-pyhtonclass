@@ -27,8 +27,9 @@ for n in range(1,10000):
 
    # print(p*4)
 
-    pilist.append(p*4)
+    pilist.append(p*4) 
 
 import matplotlib.pyplot as plt
 plt.plot(pilist)
 plt.show()
+#테스트
