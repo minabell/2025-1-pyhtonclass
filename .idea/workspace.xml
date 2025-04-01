@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="다차원 리스트와 조건문">
-      <change afterPath="$PROJECT_DIR$/04loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p01py.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="다차원 리스트와 조건문" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +29,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/minabell/2025-1-pyhtonclass.git&quot;,
-    &quot;accountId&quot;: &quot;d54b1aef-e749-43fa-8e4a-cbc5bd04b023&quot;
+    &quot;accountId&quot;: &quot;5106b667-c127-42a4-8d9f-393156accbad&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -44,21 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.01type.executor": "Run",
-    "Python.02list.executor": "Run",
-    "Python.03.executor": "Run",
-    "Python.04loop.executor": "Run",
-    "Python.p01py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/2025-1-pyhtonclass",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.01type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p01py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/2025-1-pyhtonclass&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -131,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742368095029</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="다차원 리스트와 조건문">
+      <option name="closed" value="true" />
+      <created>1742973578086</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742973578086</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
