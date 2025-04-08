@@ -47,6 +47,7 @@ for start_n in range(1, 100):
         secondn = start_n
 
 print(f'2등: {secondn} → {secondvalue}번')
+#세번째 큰 값 구하기
 thirdvalue = 0
 thirdn = 0
 
