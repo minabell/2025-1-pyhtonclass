@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="파이구하기와 그래프그리기">
-      <change afterPath="$PROJECT_DIR$/img/파이값그래프.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/파이수식.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p02CCollect.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
     "Python.03.executor": "Run",
     "Python.04loop.executor": "Run",
     "Python.p01py.executor": "Run",
+    "Python.p02CCollect.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
