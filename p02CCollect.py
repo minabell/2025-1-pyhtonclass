@@ -1,3 +1,5 @@
+from itertools import count
+
 maxvalue = 0
 maxvaluen = 0
 
@@ -54,8 +56,7 @@ thirdn = 0
 first = 0
 second = 0
 
-for start_n in range(1, 100):
-    n = start_n
+for n in range(1, 100):
     ncount = 0
 
     while n != 1:
@@ -83,6 +84,41 @@ for start_n in range(1, 100):
         thirdn = start_n
 
 print(f'3등: {thirdn} → {thirdvalue}번')
+
+
+
+
+
+
+maxvalue1 = -100
+maxvalue2 = -100
+maxvalue1 = 0
+maxvalue2 = 0
+
+for n in range(1,100):
+    ncount = 0
+    i = n
+
+    while i != 1:
+        if i % 2 == 1:
+            i = 3 * i + 1
+    else:
+        i = i / 2
+        ncount = count + 1
+
+    print(f'{ncount}')
+    if maxvalue < ncount:
+        maxvalue2 = maxvalue1
+        maxvalue1 = ncount
+        maxvalue2 = maxvalue1
+        maxvalue1 = n
+    elif maxvalue2 < count:
+        maxvalue = count
+        maxvalue = n
+
+print(f'{maxvalue1=}, {maxvalue1=}')
+print(f'{maxvalue2=}, {maxvalue2=}')
+
 
 
 
