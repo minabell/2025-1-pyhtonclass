@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="파이구하기와 그래프그리기">
-      <change afterPath="$PROJECT_DIR$/p02CCollect.py" afterDir="false" />
+    <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="3번째 큰값을 갖는 파이썬 프로그램">
+      <change afterPath="$PROJECT_DIR$/p02Collectz2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.04loop.executor": "Run",
     "Python.p01py.executor": "Run",
     "Python.p02CCollect.executor": "Run",
+    "Python.p02Collectz2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -169,7 +170,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743475451951</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2번째 큰값">
+      <option name="closed" value="true" />
+      <created>1744080062302</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744080062302</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3번째 큰값을 갖는 파이썬 프로그램">
+      <option name="closed" value="true" />
+      <created>1744080345634</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744080345634</updated>
+    </task>
+    <task id="LOCAL-00014" summary="3번째 큰값을 갖는 파이썬 프로그램">
+      <option name="closed" value="true" />
+      <created>1744080618177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744080618177</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3번째 큰값을 갖는 파이썬 프로그램">
+      <option name="closed" value="true" />
+      <created>1744082850700</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744082850700</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +211,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="다차원 리스트와 조건문" />
     <MESSAGE value="파이구하기와 그래프그리기" />
-    <option name="LAST_COMMIT_MESSAGE" value="파이구하기와 그래프그리기" />
+    <MESSAGE value="2번째 큰값" />
+    <MESSAGE value="3번째 큰값을 갖는 파이썬 프로그램" />
+    <option name="LAST_COMMIT_MESSAGE" value="3번째 큰값을 갖는 파이썬 프로그램" />
   </component>
 </project>
