@@ -50,3 +50,4 @@ print(f'표준편차 = {np.std(ncounta):.5f}')
 
 end = time.time()
 print(f'\n⏱ {end - start:.5f} 초가 걸렸습니다')
+
