@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97f992e-e2e4-4ce4-9580-fbc2248db5f6" name="변경" comment="리스트와 넘파이로 통계량 구하기&#10;함수도입">
+      <change afterPath="$PROJECT_DIR$/03wordcount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p02Collectz2.py" beforeDir="false" afterPath="$PROJECT_DIR$/p02Collectz2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2uCaLZtcykRCKSUTScy2vg80Qu4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +54,9 @@
     "Python.01type.executor": "Run",
     "Python.02list.executor": "Run",
     "Python.03.executor": "Run",
+    "Python.03wordcount.executor": "Run",
     "Python.04loop.executor": "Run",
+    "Python.05dict.executor": "Run",
     "Python.p01py.executor": "Run",
     "Python.p02CCollect.executor": "Run",
     "Python.p02Collectz2.executor": "Run",
@@ -209,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744182811617</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="리스트와 넘파이로 통계량 구하기&#10;함수도입">
+      <option name="closed" value="true" />
+      <created>1744679083026</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744679083026</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

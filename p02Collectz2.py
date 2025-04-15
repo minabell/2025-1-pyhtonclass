@@ -14,17 +14,25 @@ MAXIMUM = 100
 
 
 # 리스트 방식
-
+nmax = 0
 start = time.time()
 ncountl = []
+
 for n in range(1, MAXIMUM):
+    ncount = collatz(n)
     ncountl.append(collatz(n))
 
+    nmax = 0
+
 print(f'최대값 = {max(ncountl):.5f}')
+print(f'해당숫자{nmax=}')
 print(f'평균 = {statistics.mean(ncountl):.5f}')
 print(f'중앙값 = {statistics.median(ncountl):.5f}')
 print(f'최빈값 = {statistics.mode(ncountl):.5f}')
 print(f'표준편차 = {statistics.stdev(ncountl):.5f}')
+
+end = time.time()
+print(f'{end - start}')
 
 # numpy 방식
 start = time.time()
