@@ -28,7 +28,7 @@ print(wordcount)  # 마지막 단어만 출력되므로 필요 없다면 생략
 for key, value in wordcount.items():
    print(f'{key}:{value}')
 
-#두번쨰 버전
+#두번째 버전
 
 from collections import defaultdict
 wordcount = defaultdict(lambda:0)
